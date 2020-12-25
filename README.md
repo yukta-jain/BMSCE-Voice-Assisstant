@@ -1,4 +1,3 @@
-# BMSCE_voice_assistent
+# BMSCE Voice Assisstant
 Tech Stack:Python libraries and API
-This is basically a chat bot used to access and navigate through the
-BMSCE website via speech
+This is a personalized voice assisstant used to access and navigate through theBMSCE website via speech
